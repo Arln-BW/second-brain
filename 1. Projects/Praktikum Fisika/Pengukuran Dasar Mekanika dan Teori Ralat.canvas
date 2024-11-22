@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "374f4517797925c2",
+      "type": "text",
+      "text": "MULAI",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": -240,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "339ddaacd1f76a0b",
+      "type": "text",
+      "text": "Alat dan bahan",
+      "styleAttributes": {
+        "shape": "database"
+      },
+      "x": -314,
+      "y": -80,
+      "width": 319,
+      "height": 137
+    },
+    {
+      "id": "117064c8ab7eb448",
+      "type": "text",
+      "text": "prosedur",
+      "styleAttributes": {},
+      "x": -298,
+      "y": 100,
+      "width": 289,
+      "height": 80
+    },
+    {
+      "id": "2677255cdbc5a844",
+      "type": "text",
+      "text": "$variable$",
+      "styleAttributes": {
+        "shape": "parallelogram",
+        "textAlign": "center"
+      },
+      "x": -283,
+      "y": 260,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "31d54c5a88785eda",
+      "styleAttributes": {},
+      "fromNode": "374f4517797925c2",
+      "fromSide": "bottom",
+      "toNode": "339ddaacd1f76a0b",
+      "toSide": "top"
+    },
+    {
+      "id": "e15f2d8c0c24ceb7",
+      "styleAttributes": {},
+      "fromNode": "339ddaacd1f76a0b",
+      "fromSide": "bottom",
+      "toNode": "117064c8ab7eb448",
+      "toSide": "top"
+    },
+    {
+      "id": "5a702554292823d4",
+      "styleAttributes": {},
+      "fromNode": "117064c8ab7eb448",
+      "fromSide": "bottom",
+      "toNode": "2677255cdbc5a844",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

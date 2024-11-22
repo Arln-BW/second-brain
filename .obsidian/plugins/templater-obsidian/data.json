@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "1. Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "2. Areas",
+      "template": "Templates/Area Template.md"
+    },
+    {
+      "folder": "3. Resources",
+      "template": "Templates/Resource Template.md"
+    },
+    {
+      "folder": "5. Daily Notes",
+      "template": "Templates/Daily Template.md"
+    },
+    {
+      "folder": "6. Tasks",
+      "template": "Templates/Tasks Template.md"
+    },
+    {
+      "folder": "7. Perkuliahan",
+      "template": "Templates/Perkuliahan Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

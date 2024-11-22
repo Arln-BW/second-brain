@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"c3a0594f66508f71","x":380,"y":-627,"width":280,"height":156,"type":"text","text":"Pengertian : Any of the forms of a verb which show the time at which an action happened (bentuk kata kerja yang menunjukkan waktu terjadinya suatu perbuatan/peristiwa)."},
+		{"id":"cff8ce9b09dd8139","x":880,"y":-549,"width":273,"height":50,"type":"text","text":"Past Tense : I sang yesterday"},
+		{"id":"dfd453cb9186f0e8","x":892,"y":-914,"width":250,"height":60,"type":"text","text":"Present Tense : I sing every day"},
+		{"id":"3090ceccd9ba62df","x":1261,"y":-734,"width":232,"height":86,"type":"text","text":"Future Tense : I will sing tomorrow"},
+		{"id":"6954c9691f3ecdd8","x":892,"y":-738,"width":125,"height":60,"type":"text","text":"Contoh"},
+		{"id":"99bd26784822fbf7","x":426,"y":-80,"width":189,"height":50,"type":"text","text":"POLA TENSES"},
+		{"id":"d54017b64172b30d","x":121,"y":180,"width":339,"height":80,"type":"text","text":"VERBAL (Memakai *kata kerja (verb)*) : SUBJECT + VERB + OBJECT"},
+		{"id":"c64bd7a5d19324d2","x":615,"y":180,"width":339,"height":80,"type":"text","text":"NOMINAL (Memakai *be*) : SUBJECT + BE + NON-VERB (P.A.P.A.N)"},
+		{"id":"1afb3b536fd87794","x":460,"y":-320,"width":120,"height":50,"color":"5","type":"text","text":"TENSES"},
+		{"id":"70d262c71db65779","x":172,"y":360,"width":238,"height":60,"type":"text","text":"Example : I *SPEAK* ENGLISH EVERY DAY"},
+		{"id":"5bb460f5e854bfb8","x":660,"y":360,"width":250,"height":60,"type":"text","text":"Example : I AM AT HOME ON SUNDAYS"},
+		{"id":"19d79ec0c4bb9465","x":1069,"y":120,"width":308,"height":200,"color":"1","type":"text","text":"👉 P.A.P.A.N\n- Prepositional phrase\n- Adverb\n- Pronoun\n- Adjective\n- Noun"}
+	],
+	"edges":[
+		{"id":"28b36352b78b4e93","fromNode":"6954c9691f3ecdd8","fromSide":"bottom","toNode":"cff8ce9b09dd8139","toSide":"top"},
+		{"id":"561095e755937356","fromNode":"6954c9691f3ecdd8","fromSide":"top","toNode":"dfd453cb9186f0e8","toSide":"bottom"},
+		{"id":"28a552d039681972","fromNode":"6954c9691f3ecdd8","fromSide":"right","toNode":"3090ceccd9ba62df","toSide":"left"},
+		{"id":"4362f21a0246ad0b","fromNode":"c3a0594f66508f71","fromSide":"right","toNode":"6954c9691f3ecdd8","toSide":"left"},
+		{"id":"5e21b7eb82753cbe","fromNode":"1afb3b536fd87794","fromSide":"top","toNode":"c3a0594f66508f71","toSide":"bottom"},
+		{"id":"f19953e3b4b8ac90","fromNode":"1afb3b536fd87794","fromSide":"bottom","toNode":"99bd26784822fbf7","toSide":"top"},
+		{"id":"bae57982c09fac6f","fromNode":"d54017b64172b30d","fromSide":"top","toNode":"99bd26784822fbf7","toSide":"bottom"},
+		{"id":"bb7f4574976c2b97","fromNode":"c64bd7a5d19324d2","fromSide":"top","toNode":"99bd26784822fbf7","toSide":"bottom"},
+		{"id":"210038525bca6c33","fromNode":"d54017b64172b30d","fromSide":"bottom","toNode":"70d262c71db65779","toSide":"top"},
+		{"id":"19374afb0716d8ea","fromNode":"5bb460f5e854bfb8","fromSide":"top","toNode":"c64bd7a5d19324d2","toSide":"bottom"},
+		{"id":"a4cd861e384449a1","fromNode":"c64bd7a5d19324d2","fromSide":"right","toNode":"19d79ec0c4bb9465","toSide":"left"}
+	]
+}

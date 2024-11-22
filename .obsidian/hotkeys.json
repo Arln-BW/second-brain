@@ -1,0 +1,10 @@
+{
+  "obsidian-minimal-settings:toggle-minimal-macos-dark": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
